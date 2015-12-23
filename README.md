@@ -14,7 +14,7 @@ You can use this plugin with or without jQuery.
 ##General setup
 Copy the `prerender.js` from the `lib` folder to your web directory. And insert the following to load it.
 
-    <script src="../lib/prerender.js"></script>
+    <script src="prerender.js"></script>
 
 ###Plain javascript
 In case you have not included jQuery in your website, or just don't want to use it for this plugin, then include the following at the bottom of the page. (Or include it in some sort of document ready callback)
