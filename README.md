@@ -12,7 +12,7 @@ You can use this plugin with or without jQuery.
 [http://msdn.microsoft.com/en-us/library/ie/dn265039(v=vs.85).aspx](http://msdn.microsoft.com/en-us/library/ie/dn265039(v=vs.85\).aspx)
 
 ##General setup
-Copy the `prerender.js` from the `lib` folder to your web directory. And insert the following to load it.
+Copy the `prerender.js`to your web directory. And insert the following to load it.
 
     <script src="prerender.js"></script>
 
